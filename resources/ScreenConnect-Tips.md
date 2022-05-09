@@ -1,8 +1,11 @@
 # ScreenConnect Tips
 
-**Installing .NET 6 using Command Toolbox:**
+**Installing .NET 6 Runtime**
 ```bat
-#!ps #timeout=180000 iwr https://raw.githubusercontent.com/johngagefaulkner/clients/main/resources/scripts/Install-DotNet6.ps1 -UseBasicParsing | iex
+#!ps
+#maxlength=100000
+#timeout=180000
+powershell -ExecutionPolicy Bypass -NoProfile -Command "iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/johngagefaulkner/clients/main/resources/scripts/Install-DotNet6.ps1')"
 ```
 
 **Install PowerShell 7:**
