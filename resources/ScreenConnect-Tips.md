@@ -1,6 +1,8 @@
 # ScreenConnect Tips
 
-**Installing .NET 6 Runtime**
+Downloads and installs the Windows Desktop Runtime v6.0.4 (x64)
+
+**Install the Windows Desktop .NET 6.0.4 Runtime (x64)**
 ```bat
 #!ps
 #maxlength=100000
