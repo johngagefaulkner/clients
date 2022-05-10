@@ -1,0 +1,22 @@
+[
+    {
+        "FriendlyName": "Internet Explorer",
+        "ProcessName": "iexplore"
+    },
+    {
+        "FriendlyName": "Microsoft Edge",
+        "ProcessName": "msedge"
+    },
+    {
+        "FriendlyName": "Google Chrome",
+        "ProcessName": "chrome"
+    },
+    {
+        "FriendlyName": "Mozilla FireFox",
+        "ProcessName": "firefox"
+    },
+    {
+        "FriendlyName": "Opera",
+        "ProcessName": "opera"
+    }
+]
