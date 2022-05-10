@@ -1,6 +1,6 @@
 <#
   - [Name] Disable-UserAccountControl.ps1
-  - [Description] Modifies the Registry to 
+  - [Description] Disables User Account Control by setting a value of '0' for the following Registry Key: HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System\EnableLUA
 #>
 Clear-Host
 Write-Host "[ Disable-UserAccountControl ]"
