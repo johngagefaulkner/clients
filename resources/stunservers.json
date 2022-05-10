@@ -1,0 +1,1066 @@
+[
+    {
+        "Url": "stun.l.google.com",
+        "Port": 19302
+    },
+    {
+        "Url": "iphone-stun.strato-iphone.de",
+        "Port": 3478
+    },
+    {
+        "Url": "numb.viagenie.ca",
+        "Port": 3478
+    },
+    {
+        "Url": "s1.taraba.net",
+        "Port": 3478
+    },
+    {
+        "Url": "s2.taraba.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.12connect.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.12voip.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.1und1.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.2talk.co.nz",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.2talk.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.3clogic.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.3cx.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.a-mm.tv",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.aa.net.uk",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.acrobits.cz",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.actionvoip.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.advfn.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.aeta-audio.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.aeta.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.alltel.com.au",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.altar.com.pl",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.annatel.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.antisip.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.arbuz.ru",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.avigora.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.avigora.fr",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.awa-shima.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.awt.be",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.b2b2c.ca",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.bahnhof.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.barracuda.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.bluesip.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.bmwgs.cz",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.botonakis.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.budgetphone.nl",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.budgetsip.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.cablenet-as.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.callromania.ro",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.callwithus.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.cbsys.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.chathelp.ru",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.cheapvoip.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ciktel.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.cloopen.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.colouredlines.com.au",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.comfi.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.commpeak.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.comtube.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.comtube.ru",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.cope.es",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.counterpath.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.counterpath.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.cryptonit.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.darioflaccovio.it",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.datamanagement.it",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.dcalling.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.decanet.fr",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.demos.ru",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.develz.org",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.dingaling.ca",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.doublerobotics.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.drogon.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.duocom.es",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.dus.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.e-fon.ch",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.easybell.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.easycall.pl",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.easyvoip.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.efficace-factory.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.einsundeins.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.einsundeins.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ekiga.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.epygi.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.etoilediese.fr",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.eyeball.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.faktortel.com.au",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.freecall.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.freeswitch.org",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.freevoipdeal.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.fuzemeeting.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.gmx.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.gmx.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.gradwell.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.halonet.pl",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.hellonanu.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.hoiio.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.hosteurope.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ideasip.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.imesh.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.infra.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.internetcalls.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.intervoip.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ipcomms.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ipfire.org",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ippi.fr",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ipshka.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.iptel.org",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.irian.at",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.it1.hr",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ivao.aero",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.jappix.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.jumblo.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.justvoip.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.kanet.ru",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.kiwilink.co.nz",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.kundenserver.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.linea7.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.linphone.org",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.liveo.fr",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.lowratevoip.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.lugosoft.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.lundimatin.fr",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.magnet.ie",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.manle.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.mgn.ru",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.mit.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.mitake.com.tw",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.miwifi.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.modulus.gr",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.mozcom.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.myvoiptraffic.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.mywatson.it",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.nas.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.neotel.co.za",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.netappel.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.netappel.fr",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.netgsm.com.tr",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.nfon.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.noblogs.org",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.noc.ams-ix.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.node4.co.uk",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.nonoh.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.nottingham.ac.uk",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.nova.is",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.nventure.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.on.net.mk",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ooma.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ooonet.ru",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.oriontelekom.rs",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.outland-net.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ozekiphone.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.patlive.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.personal-voip.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.petcube.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.phone.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.phoneserve.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.pjsip.org",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.poivy.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.powerpbx.org",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.powervoip.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ppdi.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.prizee.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.qq.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.qvod.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.rackco.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.rapidnet.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.rb-net.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.refint.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.remote-learner.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.rixtelecom.se",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.rockenstein.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.rolmail.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.rounds.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.rynga.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.samsungsmartcam.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.schlund.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.services.mozilla.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.sigmavoip.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.sip.us",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.sipdiscount.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.sipgate.net",
+        "Port": 10000
+    },
+    {
+        "Url": "stun.sipgate.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.siplogin.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.sipnet.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.sipnet.ru",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.siportal.it",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.sippeer.dk",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.siptraffic.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.skylink.ru",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.sma.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.smartvoip.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.smsdiscount.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.snafu.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.softjoys.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.solcon.nl",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.solnet.ch",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.sonetel.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.sonetel.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.sovtest.ru",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.speedy.com.ar",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.spokn.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.srce.hr",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ssl7.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.stunprotocol.org",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.symform.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.symplicity.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.sysadminman.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.t-online.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.tagan.ru",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.tatneft.ru",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.teachercreated.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.tel.lu",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.telbo.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.telefacil.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.tis-dialog.ru",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.tng.de",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.twt.it",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.u-blox.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ucallweconn.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ucsb.edu",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.ucw.cz",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.uls.co.za",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.unseen.is",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.usfamily.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.veoh.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.vidyo.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.vipgroup.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.virtual-call.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.viva.gr",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.vivox.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.vline.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.vo.lu",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.vodafone.ro",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voicetrading.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voip.aebc.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voip.blackberry.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voip.eutelia.it",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voiparound.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipblast.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipbuster.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipbusterpro.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipcheap.co.uk",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipcheap.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipfibre.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipgain.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipgate.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipinfocenter.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipplanet.nl",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voippro.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipraider.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipstunt.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipwise.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voipzoom.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.vopium.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voxgratia.org",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voxox.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voys.nl",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.voztele.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.vyke.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.webcalldirect.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.whoi.edu",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.wifirst.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.wwdl.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.xs4all.nl",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.xtratelecom.es",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.yesss.at",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.zadarma.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.zadv.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun.zoiper.com",
+        "Port": 3478
+    },
+    {
+        "Url": "stun1.faktortel.com.au",
+        "Port": 3478
+    },
+    {
+        "Url": "stun1.l.google.com",
+        "Port": 19302
+    },
+    {
+        "Url": "stun1.voiceeclipse.net",
+        "Port": 3478
+    },
+    {
+        "Url": "stun2.l.google.com",
+        "Port": 19302
+    },
+    {
+        "Url": "stun3.l.google.com",
+        "Port": 19302
+    },
+    {
+        "Url": "stun4.l.google.com",
+        "Port": 19302
+    },
+    {
+        "Url": "stunserver.org",
+        "Port": 3478
+    }
+]
