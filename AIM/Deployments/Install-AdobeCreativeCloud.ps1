@@ -120,7 +120,7 @@ New-LogEntry -Msg "[Application Name]: $DEPLOYMENT_NAME"
 New-LogEntry -Msg "[Package Info]: Creative Cloud Desktop Application, Managed Package, WIN64, en_US"
 New-LogEntry -Msg "Initializing..."
 New-LogEntry -Msg "Downloading deployment configuration file, please wait... "
-$myUriData = (Invoke-WebRequest -Uri "$DEPLOYMENT_CONFIG_URL").Content
+$myUriData = (Invoke-WebRequest -Uri "$DEPLOYMENT_CONFIG_URL" -UseBasicParsing).Content
 $myCsvData = ConvertFrom-Csv -InputObject $myUriData
 New-LogEntry -Msg "[Prerequisite Check]"
 New-LogEntry -Msg "Checking required directories, please wait... "
