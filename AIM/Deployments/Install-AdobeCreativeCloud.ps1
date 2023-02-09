@@ -32,24 +32,9 @@ $AdobeSetupParams = 'setup.exe --silent --INSTALLLANGUAGE=en-US'
 $DEPLOYMENT_EXIT_CODE = 0
 
 # Define Functions
+
+# Retrieves the contents of the string data at the targeted URL and outputs it to the pipeline.
 function Request-String {
-    <#
-    .SYNOPSIS
-    Downloads content from a remote server as a string.
-
-    .DESCRIPTION
-    Downloads target string content from a URL and outputs the resulting string.
-    Any existing proxy that may be in use will be utilised.
-
-    .PARAMETER Url
-    URL to download string data from.
-
-    .EXAMPLE
-    Request-String https://community.chocolatey.org/install.ps1
-
-    Retrieves the contents of the string data at the targeted URL and outputs
-    it to the pipeline.
-    #>
     [CmdletBinding()]
     param(
         [Parameter(Mandatory = $true)]
@@ -61,29 +46,8 @@ function Request-String {
     $downloader.DownloadString($url)
 }
 
+# Downloads a file from a given URL to the specified local file path.
 function Request-File {
-    <#
-    .SYNOPSIS
-    Downloads a file from a given URL.
-
-    .DESCRIPTION
-    Downloads a target file from a URL to the specified local path.
-    Any existing proxy that may be in use will be utilised.
-
-    .PARAMETER Name
-    Friendly name of the file to be downloaded.
-
-    .PARAMETER File
-    Local path for the file to be downloaded to.
-
-    .PARAMETER Url
-    URL of the file to download from the remote host.
-
-    .EXAMPLE
-    Request-File -Name "7zip" -File "C:\ProgramData\AIM\Tools\7za.exe" -Url "https://community.chocolatey.org/7za.exe"
-
-    Downloads the install.ps1 script to the path specified in $targetFile.
-    #>
     [CmdletBinding()]
     param(
         [Parameter(Mandatory = $true)]
@@ -109,6 +73,7 @@ function Request-File {
     }
 }
 
+# Accepts the full path to a folder/directory, ensures it doesn't already exists, then creates it.
 function New-DirectoryFolder {
     [CmdletBinding()]
     param(
@@ -126,6 +91,7 @@ function New-DirectoryFolder {
     }
 }
 
+# Generates the current date and time, accepts an optional defined severity (info, warning, etc.), then combines it all into a single string to add to the transcript enabling easier parsing later.
 function New-LogEntry {
     [CmdletBinding()]
     param(
@@ -147,7 +113,7 @@ function New-LogEntry {
     Write-Host $FULL_LOG_MESSAGE
 }
 
-# Init
+# Initialize script, obtain deployment configuration file(s)
 Clear-Host
 New-LogEntry -Msg "[AIM Application Deployment]"
 New-LogEntry -Msg "[Application Name]: $DEPLOYMENT_NAME"
@@ -171,6 +137,7 @@ ForEach ($tmpDir in $myCsvData.Directories) {
 
 Start-Transcript -OutputDirectory "$DEPLOYMENT_LOGS_DIR" -Force -IncludeInvocationHeader
 
+# Download the file(s) required for installation/deployment
 New-LogEntry -Msg "Downloading the application installer, please wait..."
 Request-File -Name "Adobe Creative Cloud (Desktop App) Installer" -File "$DEPLOYMENT_DIR\Adobe_Creative_Cloud_Desktop_App_en-US_Windows_x64.zip" -Url $ADOBE_CC_DOWNLOAD_URL
 
