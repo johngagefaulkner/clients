@@ -1,0 +1,26 @@
+[
+    {
+        "DisplayName": "Dell SecureWorks Ignition",
+        "QueryString": "*SecureWorks Ignition*"
+    },
+    {
+        "DisplayName": "Dell SecureWorks Red Cloak",
+        "QueryString": "*SecureWorks Red Cloak*"
+    },
+    {
+        "DisplayName": "Java Runtime Environment",
+        "QueryString": "*Java*"
+    },
+    {
+        "DisplayName": "Adobe Acrobat X Professional",
+        "QueryString": "*Adobe Acrobat X*"
+    },
+    {
+        "DisplayName": "VLC Media Player",
+        "QueryString": "*VLC*"
+    },
+    {
+        "DisplayName": "Microsoft Silverlight",
+        "QueryString": "*Silverlight*"
+    }
+]
