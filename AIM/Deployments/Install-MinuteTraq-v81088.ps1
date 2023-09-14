@@ -14,30 +14,33 @@ Write-Host "[PID] $PID"
 
 # Define Functions
 Function New-LogEntry([string]$LogMessage) {
-
-    # Display log message to console (for debugging purposes)
     Write-Host $LogMessage
 
-    # Define the URL and Headers
-    $url = "https://logs.collector.solarwinds.com/v1/log"
-    $headers = @{
-        "Authorization" = "Basic " + [Convert]::ToBase64String([Text.Encoding]::ASCII.GetBytes(":x3mwoHmpLLfTI9rwWmY7FjvRAShs"))
-        "Content-Type"  = "application/json"
+    try {
+        # Define the URL and Headers
+        $url = "https://logs.collector.solarwinds.com/v1/log"
+        $headers = @{
+            "Authorization" = "Basic " + [Convert]::ToBase64String([Text.Encoding]::ASCII.GetBytes(":x3mwoHmpLLfTI9rwWmY7FjvRAShs"))
+            "Content-Type"  = "application/json"
+        }
+
+        # Define the Body
+        $body = @{
+            hostname  = "$env:COMPUTERNAME"
+            message   = "$LogMessage"
+            username  = "$env:USERNAME"
+            severity  = "DEBUG"
+            timestamp = "$(Get-Date -Format g)"
+        } | ConvertTo-Json
+
+        # Make the Request
+        Invoke-RestMethod -Uri $url -Method Post -Headers $headers -Body $body
+        return $true
     }
-
-    # Define the Body
-    $body = @{
-        hostname  = "$env:COMPUTERNAME"
-        message   = "$LogMessage"
-        username  = "$(whoami)"
-        timestamp = "$(Get-Date -Format g)"
-    } | ConvertTo-Json
-
-    # Make the Request
-    $response = Invoke-RestMethod -Uri $url -Method Post -Headers $headers -Body $body
-
-    # Optionally, display the response
-    $response
+    catch {
+        Write-Host "Error: $_" -ForegroundColor Red
+        return $false
+    }
 }
 
 
